@@ -1,0 +1,49 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1699805104542,
+    "data": [
+        {
+            "type": "file",
+            "name": "--help",
+            "size": 15043,
+            "hash": "0ee91a87c0ed5ec6219f8374b904fbae184f1fc5fab21b7d2da865c7a1f8723d"
+        },
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 18,
+            "hash": "8c665644a64592900375e3f967a65af10428ea12c37743e727164d54f9c285e9"
+        },
+        {
+            "type": "file",
+            "name": "dengr_deploy.yml",
+            "size": 1178,
+            "hash": "edb65da4ae494146e3de869bb53ac3dc775f3e62c35e1d094e983c1787562ef5"
+        },
+        {
+            "type": "file",
+            "name": "four.txt",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "file",
+            "name": "my.txt",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "file",
+            "name": "one.txt",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "file",
+            "name": "there.txt",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+    ]
+}
